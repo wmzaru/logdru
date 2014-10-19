@@ -1,0 +1,13 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-peerpressure','Enter the cave','Зайти в пещеру','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','Still cheering your name, they put you down and eagerly wait for you to enter and slay that dragon.`n`n','Аплодируя вам, они опустили вас вниз и с нетерпением ждут вас, чтобы войти и убить этого дракона.`n`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','Swallowing your fear as best you can, you enter the cave.','Глотание свой ​​страх, вы входите в пещеру.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','They crowd around you closer, and lift you up on their shoulders.','Они подходят к вам все ближе, и поднимают вас на плечи.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','They wonder why such an experienced adventurer as yourself hasn\'t slain a dragon yet.','Они задаются вопросом, почему такой опытный искатель приключений, как Вы еще не убил дракона.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','You know that you\'d never live it down if you tried to back out now.','Вы знаете, что вы не выживете, если вы попытаетесь отказаться.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','You mutter some embarrassed excuses but they aren\'t listening.','Вы смущенно пробормотали некоторые оправдания, но они не услышали.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','`&%s`7 heroically decided to seek out `@The Green Dragon`7 with cheers of encouragement from his peers ringing in his ears.','`&%s`7 решил героически искать `@Зеленого Дракона`7 с помошниками.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','`2Heroic Valor','`2Героическая доблесть','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','`2Wandering the village, going about your business, you are suddenly surrounded by a group of villagers.','`2Бродя по деревне, собирается о вашей жизни, вас вдруг окружила группа сельских жителей.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','`5`2You fight bravely, considering the pressure you\'re under.`0`n','`5`2вы храбро сражаетесь, учитывая ваше состояние.`0`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-peerpressure','`n`nCheering your name the whole way, they carry you into the forest, and right to the mouth of a cave outside the town!`n`n','`n`nВосхволяя ваше имя всю дорогу, они несут вас в лесу, и на право к устью пещеры недалеко от города!!`n`n','wmza','1.1.2 Dragonprime Edition ');

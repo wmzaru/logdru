@@ -1,0 +1,16 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-citygeneric3','Access','Доступ','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Hunter\'s Lodge','Дом охотников','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Name for the village','Название города','wmza','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','No','Нет','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^armor shop`0 from appearing in this village?','Включить `^Магазин брони`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^bank`0 from appearing in this village?','Включить `^Банк`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^clan entry`0 from appearing in this village?','Включить `^Вход в кланы`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^forest`0 from appearing in this village?','Включить `^лес`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^gardens`0 from appearing in this village?','Включить `^сады`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^gypsy`0 tent from appearing in this village?','Включить `^Гипси`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^lodge`0 from appearing in this village?','Включить `^lodge`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^pvp`0 in this village?','Включить `^ПвП`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Restrict `^weapon shop`0 from appearing in this village?','Включить `^Магазин оружия`0 в этом городе?','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','Travel','Путешествовать','','1.1.2 Dragonprime Edition'),
+('ru','module-citygeneric3','all','все','wmza','1.1.2 Dragonprime Edition ');

@@ -1,0 +1,2 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','modules-raceelf','`n`6Another fairy whispers in your ear, \"`^Today is `&%3$s %2$s`^, `&%4$s`^.  It is `&%1$s`^.`6\"`n','`n`6Другая фея шепчет вам на ухо, \"`^Сегодня `&%3$s %2$s`^, `&%4$s`^.  День недели `&%1$s`^.`6\"`n','wmza','1.1.2 Dragonprime Edition ');

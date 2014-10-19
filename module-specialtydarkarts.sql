@@ -1,0 +1,12 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-specialtydarkarts','Dark Arts','Темное исскуство','wmza','1.1.2 Dragonprime Edition'),
+('ru','module-specialtydarkarts','It wasn\'t until your teenage years that you began performing dark rituals with the creatures, disappearing into the forest for days on end, no one quite knowing where those sounds came from.','Он не был до подросткового возраста, что вы начали выступать темные ритуалы с существами, исчезая в лесу целыми днями, никто точно зная, где эти звуки пришли.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','Killing a lot of woodland creatures','Убивали много лесных животных','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','Your parents, concerned that you had taken to killing the creatures barehanded, bought you your very first pointy twig.','Ваши родители, обеспокоены тем, что вы взяли в убийстве существа голыми руками, вам купили вашу первую заостренную ветку.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`$ &#149; Skeleton Crew`7 (%s)`0','`$ &#149; Команда Скелетов`7 (%s)`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`$Dark Arts (%s points)`0','`$Темные Искусства (%s очков)`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`$Dark Arts`0','`$Тесное Искусство`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`5Growing up, you recall killing many small woodland creatures, insisting that they were plotting against you.','`5Вырастая, вы помните погибло много небольших лесных существ, настаивая на том, что они замышляют против вас.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`n%sYou gain a level in `&%s%s to `#%s%s!','`n%sВы получили уровень `&%s%s на `#%s%s!','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`n`2For being interested in %s%s`2, you receive `^1`2 extra `&%s%s`2 use for today.`n','`n`2За то что интересуешься %s%s`2, Вы получаете `^1`2 дополнительно `&%s%s`2 на этот день.`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-specialtydarkarts','`n`^Only %s more skill levels until you gain an extra use point!`n','`n`^Еще только %s уровень умений, пока вы не получите дополнительные очки повышения!`n','wmza','1.1.2 Dragonprime Edition ');

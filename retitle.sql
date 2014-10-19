@@ -1,0 +1,17 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','retitle','Add a Title','Добавить титул','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Are you sure you wish to delete this title?','Вы уверены что хотите удалить этот титул?','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Delete','Удалить','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Dragon Kills','Убито Драконов','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Edit','Изменить','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Female Title','Женский титул','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Functions','Функции','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Main Title Editor','Меню редактора титулов','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Male Title','Мужской титул','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Ops','Ops','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Refresh List','Обновить список','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Reset Users Titles','Сбросить титулы игрокам','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','Title Editor','Редактор Титулов','wmza','1.1.2 Dragonprime Edition'),
+('ru','retitle','Titles','Титулы','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','`@`c`b-=Title Editor=-`b`c','`@`c`b-=Редактор титулов=-`b`c','wmza','1.1.2 Dragonprime Edition '),
+('ru','retitle','`^Title modified.`0','`^Титул изменен.`0','wmza','1.1.2 Dragonprime Edition ');

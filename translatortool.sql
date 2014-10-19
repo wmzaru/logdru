@@ -1,0 +1,16 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','translatortool','Author','Автор','wmza','1.1.2 Dragonprime Edition'),
+('ru','translatortool','Edit','Изменить','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Known Namespaces:','Расположение','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Namespace:','Расположение','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','No rows found','Строки не найдены','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Ops','Ops','','1.1.2 Dragonprime Edition'),
+('ru','translatortool','Save & Close','Сохранить и Закрыть','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Save No Close','Сохранить не закрывая','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Show','Смотреть','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Text:','Текст','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Translation List','Список перевода','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Translation:','Перевод','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Translator Tool','Инструмент переводчика','wmza','1.1.2 Dragonprime Edition '),
+('ru','translatortool','Updated','Обновлено','wmza','1.1.2 Dragonprime Edition'),
+('ru','translatortool','Version','Версия','','1.1.2 Dragonprime Edition');

@@ -1,0 +1,15 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','armor','Add armor','Добавить броню','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Are you sure you wish to delete this armor?','Вы уверены что хотите удалить эту броню?','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Armor Editor','Редактор брони','','1.1.2 Dragonprime Edition'),
+('ru','armor','Armor Editor Home','Главная редактора брони','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Armor for %s DK','Броня за %s ДК','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Armor for %s DKs','Броня за %s ДК','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Cost','Стоимость','','1.1.2 Dragonprime Edition'),
+('ru','armor','Defense','Защита','wmza','1.1.2 Dragonprime Edition '),
+('ru','armor','Del','Удалить','','1.1.2 Dragonprime Edition'),
+('ru','armor','Edit','Изменить','','1.1.2 Dragonprime Edition'),
+('ru','armor','Level','Уровень','','1.1.2 Dragonprime Edition'),
+('ru','armor','Name','Название','wmza','1.1.2 Dragonprime Edition'),
+('ru','armor','Ops','Ops','','1.1.2 Dragonprime Edition'),
+('ru','armor','`&<h3>Armor for %s Dragon Kills</h3>`0','`&<h3>Броня за %s ДК</h3>`0','wmza','1.1.2 Dragonprime Edition ');

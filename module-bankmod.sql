@@ -1,0 +1,15 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-bankmod','Bank Modification Settings','Настройки мода банка','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','D?Deposit','Положить','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','Deposit Gems','Положить кристаллы','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','Deposit all Gems','Положить ВСЕ кристаллы','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','Gems','Кристаллы','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','How many gems can be stored in the bank? (set to 0 to turn off banking gems)','Сколько кристаллов можно хранить в банке? (выбрать 0 чтобы не хранить)','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','Instant Deposit','Быстрое пополнение','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','L?Take out a Loan','Кредит','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','M?Transfer Money','Перевести деньги','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','Money','Деньги','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','W?Withdraw','Забрать','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','Withdraw Gems','Взять кристаллы','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-bankmod','Ye Olde Bank','Старый Банк','','1.1.2 Dragonprime Edition'),
+('ru','module-bankmod','`^`c`bYe Olde Bank`b`c','`^`c`bСтарый Банк`b`c','','1.1.2 Dragonprime Edition');

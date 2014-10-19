@@ -1,0 +1,5 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','badnav','<br><br>If you cannot leave this page, notify the staff via <a href=\'petition.php\'>petition</a> and tell them where this happened and what you did. Thanks.','<br><br>Если вы не можете покинуть эту страницу, сообщите об этом администрацию по ссылке <a href=\'petition.php\'>жалоба</a> и укажите им что произошло и что вы при этом делали. Спасибо.','wmza','1.1.2 Dragonprime Edition'),
+('ru','badnav','Click here.','Нажмите  здесь.','wmza','1.1.2 Dragonprime Edition'),
+('ru','badnav','Your Navs Are Corrupted','Ваша навигация была повреждена','wmza','1.1.2 Dragonprime Edition '),
+('ru','badnav','Your navs are corrupted, please return to %s.','Ваша навигация была повреждена, Вы можете вернуться в %s.','wmza','1.1.2 Dragonprime Edition ');

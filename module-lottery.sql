@@ -1,0 +1,2 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-lottery','`n`@Today\'s lottery numbers are `^%s-%s-%s-%s`0`n','`n`@Сегодня выигрышные номера в лоторее `^%s-%s-%s-%s`0`n','wmza','1.1.2 Dragonprime Edition ');

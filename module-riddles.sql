@@ -1,0 +1,18 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-riddles','Add a riddle','Добавить загадку','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Answer','Ответ','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Are you sure you wish to delete this riddle?','Вы уверены что хотите удалить загадку?','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Author','Автор','','1.1.2 Dragonprime Edition'),
+('ru','module-riddles','Delete','Удалить','','1.1.2 Dragonprime Edition'),
+('ru','module-riddles','Edit','Изменить','wmza','1.1.2 Dragonprime Edition'),
+('ru','module-riddles','Ops','Ops','','1.1.2 Dragonprime Edition'),
+('ru','module-riddles','Riddle','Загадка','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Riddle Editor','Редактор загадок','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Riddle Editor Home','Назад в редактор загадок','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Riddle text','Текст загадки','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','Similarly, answers are expected in the language stored in the database.','Кроме того, ожидается ответ на языке, хранящимися в базе данных.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','`$NOTE:  Riddles are displayed in the language they are stored in the database.','`$ПРИМЕЧАНИЕ:  Загадки отображается на языке, они хранятся в базе данных.','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','`7The following are ignored at the end of answers: `&s, ing, ed`0`n`n','`7Следующие игнорируются в конце ответов: `&ы, и,`0`n`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','`7The following are ignored at the start of answers: `&a, an, and, the, my, your, someones, someone\'s, someone, his, hers`n','`7Следующие игнорируются в начале ответов: `&a, и, мой, ваш, кому-то, кто-то, кого-то, его, ее`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','`^NOTE:`& Separate multiple correct answers with semicolons (;)`n`n','`^ПРИМЕЧАНИЕ:`& Разделите несколько правильных ответов символом (;)`n`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-riddles','`bEdit a riddle`b`n','`bРедактировать загадку`b`n','wmza','1.1.2 Dragonprime Edition');

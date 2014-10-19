@@ -1,0 +1,15 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','dragon','But it does not.','Но это не так.','wmza','1.1.2 Dragonprime Edition'),
+('ru','dragon','Great Flaming Maw','Большая Огнедыщющая Пасть','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','Instead the dragon begins to speak.`n`n','Вместо этого дракон начинает говорить.`n`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','It is a new day','Новый день','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','The Green Dragon!','Зеленый дракон!','wmza','1.1.2 Dragonprime Edition'),
+('ru','dragon','The great beast begins to move its mouth.  You spring back, angry at yourself for having been fooled by its ploy of death, and watch for its huge tail to come sweeping your way.','Огромное животное начинает двигаться ее устья. Вы весной обратно, злясь на себя за то, что смущает его уловкой смерти, и наблюдать за ее огромный хвост, чтобы прийти радикальные вашем пути.','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','You are covered, head to toe, with the foul creature\'s thick black blood.','Вы покрыты с головы до ног, с густой черной крови убитого существа.','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`#%s`# has earned the title `&%s`# for having slain the `@Green Dragon`& `^%s`# time!','`#%s`# заслужил звание `&%s`# за убийство `@Зеленого Дракона`& `^%s`#!','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`&%s has slain the hideous creature known as `@The Green Dragon`&.  All across the land, people rejoice!','`&%s убил отвратительное существо известное как `@Зеленый Дракон`&.  Люди радуются по всей земле!','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`&With a mighty final blow, `@The Green Dragon`& lets out a tremendous bellow and falls at your feet, dead at last.','`&Нанося последний могучий удар, `@Зеленый Дракон`& издает тихий рев, и падает на землю.','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`2Before you, the great dragon lies immobile, its heavy breathing like acid to your lungs.','`2Перед Вами, большой крокодил, лежит неподвижно, его тяжелое дыхание, как кислота, чтобы ваши легкие.','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`@The Green Dragon`0','`@Зеленый Дракон`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`@Victory!`n`n','`@Победа!`n`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','dragon','`^You gain FIVE charm points for having defeated the dragon!`n','`^Вы получаете ПЯТЬ очков очарования за победу дракона!`n','wmza','1.1.2 Dragonprime Edition ');

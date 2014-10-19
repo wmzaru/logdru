@@ -1,0 +1,15 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','module-dag',' Target: ',' Цель: ','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-dag',' Winner: ',' Победитель: ','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-dag','Actions','Действия','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Dag\'s Bounties','Премии Дага','wmza','1.1.2 Dragonprime Edition'),
+('ru','module-dag','ID','ID','wmza','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Last On','Последний вход','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Level','Уровень','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Location','Локация','wmza','1.1.2 Dragonprime Edition '),
+('ru','module-dag','Name','Имя','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Ops','Ops','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Search','Поиск','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Sex','Пол','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','Status','Статус','','1.1.2 Dragonprime Edition'),
+('ru','module-dag','`2Target: ','`2Цель: ','wmza','1.1.2 Dragonprime Edition ');

@@ -1,0 +1,16 @@
+9-15-2013 Verified Uploader:wmza Time:19:1:48
+('ru','battle','%s%s%s%s\'s Hitpoints%s (Level %s): `6%s`0`n','%s%s%s%s\'s Жизнь%s (Уровень %s): `6%s`0`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`$`c`b~ ~ ~ Fight ~ ~ ~`b`c`0','`$`c`b~ ~ ~ Битва ~ ~ ~`b`c`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`&Your companions return to stand by your side!`n','`&Ваши спутники стоявшие в стороне, снова подошли к Вам!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`&Your companions stand back during this fight!`n','`&Ваши спутники отошли вовремя этого дома!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`&`bYou execute a `%MEGA`& power move!!!`b`n','`&`bВы делаете `%МЕГА`& мощьный ход!!!`b`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`2YOUR Hitpoints: `6%s`0`n','`2ВАША Жизнь: `6%s`0`n','wmza','1.1.2 Dragonprime Edition'),
+('ru','battle','`2`bEnd of Round:`b`n','`2`bКонец раунда:`b`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`4You hit `^%s`4 for `^%s`4 points of damage!`n','`4Вы бьете `^%s`4 на `^%s`4 урона!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`7DEAD`0','`7МЕРТВ`0','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`@You have encountered `^%s`@ which lunges at you with `%%s`@!`0`n','`@Вы столкнулись с `^%s`@ который брасаеться на вас с -`%%s`@!`0`n','wmza','1.1.2 Dragonprime Edition'),
+('ru','battle','`^%s`4 hits `$%s`4 for `$%s`4 points of damage!`n','`^%s`4 бьет `$%s`4 и наносит `$%s`4 урона!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`^%s`4 hits you for `$%s`4 points of damage!`n','`^%s`4 бьет вас на `$%s`4 жизни!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`^%s`4 tries to hit %s but %s `$RIPOSTES`4 for `^%s`4 points of damage!`n','`^%s`4 пытается ударить %s но %s `$ОТРАЖАЕТ`4 удар нанося в ответ `^%s`4 очков урона!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`^%s`4 tries to hit you but you `^RIPOSTE`4 for `^%s`4 points of damage!`n','`^%s`4 пытается ударить вас, но вы `^ОТРАЖАЕТЕ`4 удар, нанося в ответ `^%s`4 урона!`n','wmza','1.1.2 Dragonprime Edition '),
+('ru','battle','`b`^%s`$ surprises you and gets the first round of attack!`0`b`n`n','`b`^%s`$ неожиданно нападает на вас!`0`b`n`n','wmza','1.1.2 Dragonprime Edition');
